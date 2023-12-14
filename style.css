@@ -1,0 +1,29 @@
+div {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: fit-content;
+    /* background-color: cadetblue; */
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    width: 100%;
+    font-size: 80px;
+}
+
+p {
+    width: 100%;
+    font-size: 35px;
+}
+
+button {
+    padding: 40px 80px 40px 80px;
+    background-color: blue;
+    color: white;
+}
+
+button:hover {
+    background-color: green;
+}
